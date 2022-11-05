@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) template repository.
 ## Getting Started
 
 ```bash
-yarn create my-app -e https://github.com/yushin-ito/next-ts-template.git
+yarn create next-app my-app -e https://github.com/yushin-ito/next-ts-template
 yarn dev
 ```
 
